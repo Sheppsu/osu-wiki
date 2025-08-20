@@ -41,25 +41,29 @@ Congratulations to the top 3 teams!
 There were many great achievements, and many people gave different answers on their favorite achievements, but I'd like to highlight a small handful of them. For a list of all the achievements, check the [CTA2 achievements page](https://cta.sheppsu.me/iterations/2/achievements).
 
 <style>
-details:first-of-type summary::marker {
-	content: "> ";
-}
+    .revealed-item {
+        visibility: hidden;
+    }
+    .hover-item:hover ~ .revealed-item {
+        visibility: visible;
+    }
 </style>
 
 ### Sound in Motion
 **Description**: What is a map/chart? To answer that I started to play various maps and charts from diverse games, starting with osu! Standard, osu! Taiko, osu! Mania and osu! Catch, and then I decided that I was too restricted to just play things from osu!, so I decided to venture out and play other things like, Wacca, DDR and SDVX to get an idea of what is important. But after all that, to be honest, I just don't know, they are all so different, each one has more than 6k rules to follow and that doesn't even count what I need to even do things for MWC and similar. But I could notice the passion, so for that I decided to put a bit of my passion in this too, like messing with sliders with some inspiration from mappers like idke, although I need a break. Hope you like it!
 **Attached map**: https://osu.ppy.sh/beatmapsets/2407674#osu/5225815
 **Creator**: [-Rinne-](https://osu.ppy.sh/users/13407431)
-<details>
-<summary>Solution</summary>
-<p>
-Find the passphrase hidden in the audio file, which can be seen through a spectrogram. 
-    
-The title is both the title of the song and referencing there is something with the sound, but most people will miss this.  
-  
-The description is mainly to find the map to get the hint that there is something on the spectrogram (beatmap is named steganography), for that each difficulty is named after difficulties in various rhythm games, and you need to look by the order I reference them in the text, this will give you the beatmap ID, which in the last part of the description I reference as the "inspiration from my journey", this also includes a reference to look for THE slider in the map which has the trick that idke used and needing a break to show that its before the break, otherwise it could be way too hard. The middle has the 6k rules, to point to something related to 6k, in this case, the frequency where you can find the hidden message. MWC is just to reinforce that if you find the map steganography since it was the tiebreaker.More details on the achievements page and in the solution reveal VOD at 1:24:50.
-</p>
-</details>
+
+<div>
+    <p class="hover-item">Solution (hover)</p>
+    <p class="revealed-item">
+        Find the passphrase hidden in the audio file, which can be seen through a spectrogram. 
+            
+        The title is both the title of the song and referencing there is something with the sound, but most people will miss this.  
+          
+        The description is mainly to find the map to get the hint that there is something on the spectrogram (beatmap is named steganography), for that each difficulty is named after difficulties in various rhythm games, and you need to look by the order I reference them in the text, this will give you the beatmap ID, which in the last part of the description I reference as the "inspiration from my journey", this also includes a reference to look for THE slider in the map which has the trick that idke used and needing a break to show that its before the break, otherwise it could be way too hard. The middle has the 6k rules, to point to something related to 6k, in this case, the frequency where you can find the hidden message. MWC is just to reinforce that if you find the map steganography since it was the tiebreaker.More details on the achievements page and in the solution reveal VOD at 1:24:50.
+    </p>
+</div>
 
 This achievement certainly had the most time and effort put into it, with even a custom map from [TamamoLover](https://osu.ppy.sh/users/7772622). It was made to be a quite difficult achievement, so congrats to the 5 teams that completed it! Here's a comment from Rinne about the achievement:
 
@@ -74,46 +78,49 @@ This achievement certainly had the most time and effort put into it, with even a
 ### The Everlasting Epigrapher
 **Description:** Finally, your grand discovery will rock all.
 **Creator:** [Sheppsu](https://osu.ppy.sh/users/14895608)
-<details>
-<summary>Solution</summary>
-<p>
-Translating the text on all 5 rocks in the background of Yooh - Eternity.
+
+<div>
+    <p class="hover-item">Solution (hover)</p>
+    <p class="revealed-item">
+        Translating the text on all 5 rocks in the background of Yooh - Eternity.
   
-Everlasting refers to the title. Epigrapher is the name of someone who translates ancient texts. "Finally" and "grand" reference it being the grand finals tiebreaker. In addition, it has the catch tag to help them figure that out. "Rock all" hints at translating the text on all the rocks.
-</p>
-</details>
+        Everlasting refers to the title. Epigrapher is the name of someone who translates ancient texts. "Finally" and "grand" reference it being the grand finals tiebreaker. In addition, it has the catch tag to help them figure that out. "Rock all" hints at translating the text on all the rocks.
+    </p>
+</div>
 
 As the creator of this achievement, I'm certainly biased, but it was definitely my favorite. The idea was initially proposed by [Anonymoose](https://osu.ppy.sh/users/11153810) to somehow use the cryptic language in [Yooh - Eternity](https://osu.ppy.sh/beatmapsets/2402789#fruits/5211146) for an achievement. When I got some free time, I decided to try translating the language, and [yandax](https://osu.ppy.sh/users/17465623) joined in to help me. After an hour, we had a table of symbols to letters (except J and Z, which we're pretty sure were not used anywhere). In the process, [yandax](https://osu.ppy.sh/users/17465623) had translated the text on all 5 rocks. Come a few days later, I finally had a good idea of how we could use this all in an achievement, and thus **The Everlasting Epigrapher** was born. The CWC team absolutely cooked with this tiebreaker and I love it. I think it's pretty cool that we were able to use their little easter egg in an achievement. Like Sound In Motion, this one was also made to be pretty difficult, so well done to the 7 teams that completed it.
 
 ### Graphic Design Is My Passion
 **Description:** Sheppsu's been busy updating the site, so he put me in charge of graphic design. The lineup he gave me looked a bit unfamiliar, but I managed to pull things off with the help of some dark magic. https://yanda-dy.github.io/cta2-external/graphic_2b2d5018fe0cb636.html
 **Creator:** [yandax](https://osu.ppy.sh/users/17465623)
-<details>
-<summary>Solution</summary>
-<p>
-Pass any ranked difficulty of Black Pentagram +EZ
 
-This one should be decently fun once you figure out the initial premise. As hinted by the second sentence, the images all reference osu! related phrases, with one letter changed. Taking the new letter in the changed phrases yields the answer “BLAZE PENTAGRAM.” Searching this doesn’t give an exact match, but yields Black Pentagram (hint: dark magic). The clue at the bottom of the webpage hints at doing the same thing again (and flipping) – the two phrases only have two letters changed, giving us EZ, the mod combination we should be using (this last step is weaker than I would like, but is necessary to avoid accidental completions).
+<div>
+    <p class="hover-item">Solution (hover)</p>
+    <p class="revealed-item">
+        Pass any ranked difficulty of Black Pentagram +EZ
 
-See all the answers on yandax's writeup (linked in the paragraph below).
-</p>
-</details>
+        This one should be decently fun once you figure out the initial premise. As hinted by the second sentence, the images all reference osu! related phrases, with one letter changed. Taking the new letter in the changed phrases yields the answer “BLAZE PENTAGRAM.” Searching this doesn’t give an exact match, but yields Black Pentagram (hint: dark magic). The clue at the bottom of the webpage hints at doing the same thing again (and flipping) – the two phrases only have two letters changed, giving us EZ, the mod combination we should be using (this last step is weaker than I would like, but is necessary to avoid accidental completions).
+
+        See all the answers on yandax's writeup (linked in the paragraph below).
+    </p>
+</div>
 
 [yandax](https://osu.ppy.sh/users/17465623) made several puzzle-oriented achievements that were widely loved. It's tough to pick just one to highlight, but this one was among the most favorite. Best of all, you can try it yourself by clicking the link in the achievement description! You can read yandax's comment on this one and see the solutions [here](https://yanda-dy.github.io/cta2-external/solutions_e1529b90acab3664/solutions.html#graphic-design-is-my-passion).
 
 ### INSERT COIN
 **Description:** INSERT COIN
 **Creator:** [Dragon20942](https://osu.ppy.sh/users/6147964)
-<details>
-<summary>Solution</summary>
-<p>
-Find the passphrase hidden in the audio file, which can be seen through a spectrogram. 
+
+<div>
+    <p class="hover-item">Solution (hover)</p>
+    <p class="revealed-item">
+        Find the passphrase hidden in the audio file, which can be seen through a spectrogram. 
     
-The title is both the title of the song and referencing there is something with the sound, but most people will miss this.  
-  
-The description is mainly to find the map to get the hint that there is something on the spectrogram (beatmap is named steganography), for that each difficulty is named after difficulties in various rhythm games, and you need to look by the order I reference them in the text, this will give you the beatmap ID, which in the last part of the description I reference as the "inspiration from my journey", this also includes a reference to look for THE slider in the map which has the trick that idke used and needing a break to show that its before the break, otherwise it could be way too hard. The middle has the 6k rules, to point to something related to 6k, in this case, the frequency where you can find the hidden message. MWC is just to reinforce that if you find the map steganography since it was the tiebreaker.More details on the achievements page and in the solution reveal VOD at 1:24:50.
-</p>
-</details>
+        The title is both the title of the song and referencing there is something with the sound, but most people will miss this.  
+          
+        The description is mainly to find the map to get the hint that there is something on the spectrogram (beatmap is named steganography), for that each difficulty is named after difficulties in various rhythm games, and you need to look by the order I reference them in the text, this will give you the beatmap ID, which in the last part of the description I reference as the "inspiration from my journey", this also includes a reference to look for THE slider in the map which has the trick that idke used and needing a break to show that its before the break, otherwise it could be way too hard. The middle has the 6k rules, to point to something related to 6k, in this case, the frequency where you can find the hidden message. MWC is just to reinforce that if you find the map steganography since it was the tiebreaker.More details on the achievements page and in the solution reveal VOD at 1:24:50.
+    </p>
+</div>
 
 Dragon made several achievements with interesting wordplay, and **INSERT COIN** was liked by many. I also recommend checking out **Perpertually Anxious** and **Ball Load Error** on the [achievements page](https://cta.sheppsu.me/iterations/2/achievements). I'll let Dragon take it away from here:
 
@@ -124,7 +131,7 @@ Dragon made several achievements with interesting wordplay, and **INSERT COIN** 
     4. I suggested COIN and Insert Coin mapsets,
     5. Yandax playtested the COIN mod combination,
     6. Danny and I tuned the final difficulty/polish:
-	    - Redundant title/description highlights the idea that there are 2 conceptual "COINs" and the repetition evokes the idea of the prompt flashing on an arcade cabinet,
+        - Redundant title/description highlights the idea that there are 2 conceptual "COINs" and the repetition evokes the idea of the prompt flashing on an arcade cabinet,
         - COIN should be capitalized since it refers to a mod abbreviation,
         - INSERT being capitalized helps further underscore the retro/arcade theming while adding some obfuscation for the idea of COIN referring to mods
 >
@@ -133,12 +140,13 @@ Dragon made several achievements with interesting wordplay, and **INSERT COIN** 
 ### ￼
 **Description:** Wait, wasn't there supposed to be something here?
 **Creator:** [Anonymoose](https://osu.ppy.sh/users/11153810)
-<details>
-<summary>Solution</summary>
-<p>
-While not visible here, on the CTA achievements page, if you use inspect element on the title of the achievement, you'll see a beatmap id, 100 count, and miss count specified on the html tag.
-</p>
-</details>
+
+<div>
+    <p class="hover-item">Solution (hover)</p>
+    <p class="revealed-item">
+        While not visible here, on the CTA achievements page, if you use inspect element on the title of the achievement, you'll see a beatmap id, 100 count, and miss count specified on the html tag.
+    </p>
+</div>
 
 This achievement, while having a simple solution, required some out-of-the-box thinking. It's a pretty cool one for the creativity in its solution. Still, it wasn't challenging enough for some, with the first completion being 6 minutes after release and 23 teams completing it!
 

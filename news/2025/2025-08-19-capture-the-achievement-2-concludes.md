@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Capture The Achievement 2 Concludes"
+date: 2025-08-19 00:30:00 +0000
+---
+
 Capture The Achievement 2 has concluded, with 2649 completions across 104 teams!
 
 ![](/wiki/shared/news/2025-06-21-capture-the-achievement-2/banner.jpg)
@@ -33,6 +39,12 @@ Congratulations to the top 3 teams!
 
 ## Achievement highlights
 There were many great achievements, and many people gave different answers on their favorite achievements, but I'd like to highlight a small handful of them. For a list of all the achievements, check the [CTA2 achievements page](https://cta.sheppsu.me/iterations/2/achievements).
+
+<style>
+details:first-of-type summary::marker {
+	content: "> ";
+}
+</style>
 
 ### Sound in Motion
 **Description**: What is a map/chart? To answer that I started to play various maps and charts from diverse games, starting with osu! Standard, osu! Taiko, osu! Mania and osu! Catch, and then I decided that I was too restricted to just play things from osu!, so I decided to venture out and play other things like, Wacca, DDR and SDVX to get an idea of what is important. But after all that, to be honest, I just don't know, they are all so different, each one has more than 6k rules to follow and that doesn't even count what I need to even do things for MWC and similar. But I could notice the passion, so for that I decided to put a bit of my passion in this too, like messing with sliders with some inspiration from mappers like idke, although I need a break. Hope you like it!

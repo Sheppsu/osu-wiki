@@ -41,6 +41,9 @@ Congratulations to the top 3 teams!
 There were many great achievements, and many people gave different answers on their favorite achievements, but I'd like to highlight a small handful of them. For a list of all the achievements, check the [CTA2 achievements page](https://cta.sheppsu.me/iterations/2/achievements).
 
 <style>
+	.hover-item {
+		width: 110px;
+	}
     .revealed-item {
         visibility: hidden;
     }

@@ -116,11 +116,7 @@ As the creator of this achievement, I'm certainly biased, but it was definitely 
 <div>
     <p class="hover-item">Solution (hover)</p>
     <p class="revealed-item">
-        Find the passphrase hidden in the audio file, which can be seen through a spectrogram. 
-		<br/><br/>
-        The title is both the title of the song and referencing there is something with the sound, but most people will miss this.  
-		<br/><br/>
-        The description is mainly to find the map to get the hint that there is something on the spectrogram (beatmap is named steganography), for that each difficulty is named after difficulties in various rhythm games, and you need to look by the order I reference them in the text, this will give you the beatmap ID, which in the last part of the description I reference as the "inspiration from my journey", this also includes a reference to look for THE slider in the map which has the trick that idke used and needing a break to show that its before the break, otherwise it could be way too hard. The middle has the 6k rules, to point to something related to 6k, in this case, the frequency where you can find the hidden message. MWC is just to reinforce that if you find the map steganography since it was the tiebreaker.More details on the achievements page and in the solution reveal VOD at 1:24:50.
+        Submit a score on any ranked mapset of Insert Coin with CO and IN mods.
     </p>
 </div>
 

@@ -48,7 +48,7 @@ There were many great achievements, and many people gave different answers on th
     .revealed-item {
         display: none;
 		border: 2px solid white;
-		padding: 5px;
+		padding: 10px;
     }
     .hover-item:hover ~ .revealed-item {
         display: block;
@@ -87,7 +87,7 @@ This achievement certainly had the most time and effort put into it, with even a
     <p class="hover-item">Solution (hover)</p>
     <p class="revealed-item">
         Translating the text on all 5 rocks in the background of Yooh - Eternity.
-  
+		<br/><br/>
         Everlasting refers to the title. Epigrapher is the name of someone who translates ancient texts. "Finally" and "grand" reference it being the grand finals tiebreaker. In addition, it has the catch tag to help them figure that out. "Rock all" hints at translating the text on all the rocks.
     </p>
 </div>
@@ -101,9 +101,9 @@ As the creator of this achievement, I'm certainly biased, but it was definitely 
     <p class="hover-item">Solution (hover)</p>
     <p class="revealed-item">
         Pass any ranked difficulty of Black Pentagram +EZ
-
+		<br/><br/>
         This one should be decently fun once you figure out the initial premise. As hinted by the second sentence, the images all reference osu! related phrases, with one letter changed. Taking the new letter in the changed phrases yields the answer “BLAZE PENTAGRAM.” Searching this doesn’t give an exact match, but yields Black Pentagram (hint: dark magic). The clue at the bottom of the webpage hints at doing the same thing again (and flipping) – the two phrases only have two letters changed, giving us EZ, the mod combination we should be using (this last step is weaker than I would like, but is necessary to avoid accidental completions).
-
+		<br/><br/>
         See all the answers on yandax's writeup (linked in the paragraph below).
     </p>
 </div>
@@ -117,9 +117,9 @@ As the creator of this achievement, I'm certainly biased, but it was definitely 
     <p class="hover-item">Solution (hover)</p>
     <p class="revealed-item">
         Find the passphrase hidden in the audio file, which can be seen through a spectrogram. 
-    
+		<br/><br/>
         The title is both the title of the song and referencing there is something with the sound, but most people will miss this.  
-          
+		<br/><br/>
         The description is mainly to find the map to get the hint that there is something on the spectrogram (beatmap is named steganography), for that each difficulty is named after difficulties in various rhythm games, and you need to look by the order I reference them in the text, this will give you the beatmap ID, which in the last part of the description I reference as the "inspiration from my journey", this also includes a reference to look for THE slider in the map which has the trick that idke used and needing a break to show that its before the break, otherwise it could be way too hard. The middle has the 6k rules, to point to something related to 6k, in this case, the frequency where you can find the hidden message. MWC is just to reinforce that if you find the map steganography since it was the tiebreaker.More details on the achievements page and in the solution reveal VOD at 1:24:50.
     </p>
 </div>
@@ -161,7 +161,7 @@ This is one of the nine competition achievements, which were popular for their r
 
 While that's all for the highlights, there were some other cool achievements that you can find on the [CTA2 achievements page](https://cta.sheppsu.me/iterations/2/achievements) with the solutions available. You can also check out the solutions reveal stream below or [yandax's write up](https://yanda-dy.github.io/cta2-external/solutions_e1529b90acab3664/solutions.html#cta2-yandax) (yandax's achievements only) for more insight on any of them. 
 
-<iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2524369287" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+<iframe src="https://player.twitch.tv/?video=2524369287&parent=osu.ppy.sh" frameborder="0" allowfullscreen="true" scrolling="no" width="95%" style="aspect-ratio: 16 / 9;"></iframe>
 
 If you want to know who to get on your team for CTA3, you can check the [stats sheet](https://docs.google.com/spreadsheets/d/1uD_5jZZAH5cVM9-_zEpdsdgBueeI71dFEpa8v9ZbjHY/edit?gid=0#gid=0).
 

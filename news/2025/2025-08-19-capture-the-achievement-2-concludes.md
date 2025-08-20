@@ -127,17 +127,17 @@ As the creator of this achievement, I'm certainly biased, but it was definitely 
 Dragon made several achievements with interesting wordplay, and **INSERT COIN** was liked by many. I also recommend checking out **Perpertually Anxious** and **Ball Load Error** on the [achievements page](https://cta.sheppsu.me/iterations/2/achievements). I'll let Dragon take it away from here:
 
 > INSERT COIN was really a team effort, and an achievement that was particularly fun for me because of that. Rather than any one of us solo generating a concept, we iterated between different parties in a way that suited our individual strengths. The final idea felt polished and compelling too! The process went something like this:
-    1. I floated the idea of the mods spelling something - Danny had also thought of this,
-    2. I asked about a canonical mod order - Yandax found it and also generated a list of possible words we could spell out,
-    3. We brainstormed and found a few words/maps to try (like SODA and DANS),
-    4. I suggested COIN and Insert Coin mapsets,
-    5. Yandax playtested the COIN mod combination,
-    6. Danny and I tuned the final difficulty/polish:
-        - Redundant title/description highlights the idea that there are 2 conceptual "COINs" and the repetition evokes the idea of the prompt flashing on an arcade cabinet,
-        - COIN should be capitalized since it refers to a mod abbreviation,
-        - INSERT being capitalized helps further underscore the retro/arcade theming while adding some obfuscation for the idea of COIN referring to mods
+>    1. I floated the idea of the mods spelling something - Danny had also thought of this,
+>    2. I asked about a canonical mod order - Yandax found it and also generated a list of possible words we could spell out,
+>    3. We brainstormed and found a few words/maps to try (like SODA and DANS),
+>    4. I suggested COIN and Insert Coin mapsets,
+>    5. Yandax playtested the COIN mod combination,
+>    6. Danny and I tuned the final difficulty/polish:
+>        - Redundant title/description highlights the idea that there are 2 conceptual "COINs" and the repetition evokes the idea of the prompt flashing on an arcade cabinet,
+>        - COIN should be capitalized since it refers to a mod abbreviation,
+>        - INSERT being capitalized helps further underscore the retro/arcade theming while adding some obfuscation for the idea of COIN referring to mods
 >
->Thank you to everyone who took a crack at it - I'm glad people enjoyed :3
+> Thank you to everyone who took a crack at it - I'm glad people enjoyed :3
 
 ### ￼
 **Description:** Wait, wasn't there supposed to be something here?

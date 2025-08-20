@@ -43,12 +43,13 @@ There were many great achievements, and many people gave different answers on th
 <style>
 	.hover-item {
 		width: 110px;
+		font-weight: 600;
 	}
     .revealed-item {
-        visibility: hidden;
+        display: none;
     }
     .hover-item:hover ~ .revealed-item {
-        visibility: visible;
+        display: block;
     }
 </style>
 

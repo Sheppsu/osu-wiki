@@ -42,11 +42,12 @@ There were many great achievements, and many people gave different answers on th
 
 <style>
 	.hover-item {
-		width: 110px;
+		width: 115px;
 		font-weight: 600;
 	}
     .revealed-item {
         display: none;
+		border: 2px solid white;
     }
     .hover-item:hover ~ .revealed-item {
         display: block;
@@ -57,7 +58,6 @@ There were many great achievements, and many people gave different answers on th
 **Description**: What is a map/chart? To answer that I started to play various maps and charts from diverse games, starting with osu! Standard, osu! Taiko, osu! Mania and osu! Catch, and then I decided that I was too restricted to just play things from osu!, so I decided to venture out and play other things like, Wacca, DDR and SDVX to get an idea of what is important. But after all that, to be honest, I just don't know, they are all so different, each one has more than 6k rules to follow and that doesn't even count what I need to even do things for MWC and similar. But I could notice the passion, so for that I decided to put a bit of my passion in this too, like messing with sliders with some inspiration from mappers like idke, although I need a break. Hope you like it!
 **Attached map**: https://osu.ppy.sh/beatmapsets/2407674#osu/5225815
 **Creator**: [-Rinne-](https://osu.ppy.sh/users/13407431)
-
 <div>
     <p class="hover-item">Solution (hover)</p>
     <p class="revealed-item">
@@ -82,7 +82,6 @@ This achievement certainly had the most time and effort put into it, with even a
 ### The Everlasting Epigrapher
 **Description:** Finally, your grand discovery will rock all.
 **Creator:** [Sheppsu](https://osu.ppy.sh/users/14895608)
-
 <div>
     <p class="hover-item">Solution (hover)</p>
     <p class="revealed-item">
@@ -97,7 +96,6 @@ As the creator of this achievement, I'm certainly biased, but it was definitely 
 ### Graphic Design Is My Passion
 **Description:** Sheppsu's been busy updating the site, so he put me in charge of graphic design. The lineup he gave me looked a bit unfamiliar, but I managed to pull things off with the help of some dark magic. https://yanda-dy.github.io/cta2-external/graphic_2b2d5018fe0cb636.html
 **Creator:** [yandax](https://osu.ppy.sh/users/17465623)
-
 <div>
     <p class="hover-item">Solution (hover)</p>
     <p class="revealed-item">
@@ -114,7 +112,6 @@ As the creator of this achievement, I'm certainly biased, but it was definitely 
 ### INSERT COIN
 **Description:** INSERT COIN
 **Creator:** [Dragon20942](https://osu.ppy.sh/users/6147964)
-
 <div>
     <p class="hover-item">Solution (hover)</p>
     <p class="revealed-item">
@@ -144,7 +141,6 @@ Dragon made several achievements with interesting wordplay, and **INSERT COIN** 
 ### ￼
 **Description:** Wait, wasn't there supposed to be something here?
 **Creator:** [Anonymoose](https://osu.ppy.sh/users/11153810)
-
 <div>
     <p class="hover-item">Solution (hover)</p>
     <p class="revealed-item">

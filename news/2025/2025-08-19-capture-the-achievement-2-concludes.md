@@ -47,6 +47,8 @@ There were many great achievements, and many people gave different answers on th
 
 <style>
     .hover-item {
+        margin: 0;
+        padding-bottom: 21px;
         width: 115px;
         font-weight: 600;
     }
@@ -56,6 +58,9 @@ There were many great achievements, and many people gave different answers on th
         padding: 10px;
     }
     .hover-item:hover ~ .revealed-item {
+        display: block;
+    }
+    .revealed-item:hover {
         display: block;
     }
 </style>

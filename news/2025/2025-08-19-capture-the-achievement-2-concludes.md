@@ -19,6 +19,7 @@ The competition for the top spots was fierce, with 1st place frequently swapping
 Congratulations to the top 3 teams!
 
 **1st place**: thought it was a normal tourney - 7613 points
+
 - [--Glitchy--](https://osu.ppy.sh/users/30644569)
 - [21Jeff21](https://osu.ppy.sh/users/11050944)
 - [Aveil](https://osu.ppy.sh/users/11635646)
@@ -26,6 +27,7 @@ Congratulations to the top 3 teams!
 - [frutiger aero](https://osu.ppy.sh/users/10976672)
 
 **2nd place**: Pawsome 🖐️ - 7132 points
+
 - [brandwagen](https://osu.ppy.sh/users/13925852) 
 - [Flyer](https://osu.ppy.sh/users/9767342)
 - [Skrub](https://osu.ppy.sh/users/10306849) 
@@ -33,6 +35,7 @@ Congratulations to the top 3 teams!
 - [- joshh](https://osu.ppy.sh/users/17957276)
 
 **3rd place**: osu!friends - 6938 points
+
 - [ming0328ming](https://osu.ppy.sh/users/2984074)
 - [BrandonH](https://osu.ppy.sh/users/5988903)
 - [Zefkiel](https://osu.ppy.sh/users/7989469)

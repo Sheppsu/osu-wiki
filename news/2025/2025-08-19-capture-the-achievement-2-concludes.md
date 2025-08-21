@@ -18,7 +18,7 @@ The competition for the top spots was fierce, with 1st place frequently swapping
 
 Congratulations to the top 3 teams!
 
-**1st place**: thought it was a normal tourney - 7613 points
+### 1st place: thought it was a normal tourney - 7613 points
 
 - [--Glitchy--](https://osu.ppy.sh/users/30644569)
 - [21Jeff21](https://osu.ppy.sh/users/11050944)
@@ -26,7 +26,7 @@ Congratulations to the top 3 teams!
 - [WhiteDoable](https://osu.ppy.sh/users/24868424)
 - [frutiger aero](https://osu.ppy.sh/users/10976672)
 
-**2nd place**: Pawsome 🖐️ - 7132 points
+### 2nd place: Pawsome 🖐️ - 7132 points
 
 - [brandwagen](https://osu.ppy.sh/users/13925852) 
 - [Flyer](https://osu.ppy.sh/users/9767342)
@@ -34,7 +34,7 @@ Congratulations to the top 3 teams!
 - [Lunar_](https://osu.ppy.sh/users/13688990)
 - [- joshh](https://osu.ppy.sh/users/17957276)
 
-**3rd place**: osu!friends - 6938 points
+### 3rd place: osu!friends - 6938 points
 
 - [ming0328ming](https://osu.ppy.sh/users/2984074)
 - [BrandonH](https://osu.ppy.sh/users/5988903)
@@ -46,14 +46,14 @@ Congratulations to the top 3 teams!
 There were many great achievements, and many people gave different answers on their favorite achievements, but I'd like to highlight a small handful of them. For a list of all the achievements, check the [CTA2 achievements page](https://cta.sheppsu.me/iterations/2/achievements).
 
 <style>
-	.hover-item {
-		width: 115px;
-		font-weight: 600;
-	}
+    .hover-item {
+        width: 115px;
+        font-weight: 600;
+    }
     .revealed-item {
         display: none;
-		border: 2px solid white;
-		padding: 10px;
+        border: 2px solid white;
+        padding: 10px;
     }
     .hover-item:hover ~ .revealed-item {
         display: block;
@@ -68,9 +68,9 @@ There were many great achievements, and many people gave different answers on th
     <p class="hover-item">Solution (hover)</p>
     <p class="revealed-item">
         Find the passphrase hidden in the audio file, which can be seen through a spectrogram. 
-		<br/><br/>
+        <br/><br/>
         The title is both the title of the song and referencing there is something with the sound, but most people will miss this.  
-		<br/><br/>
+        <br/><br/>
         The description is mainly to find the map to get the hint that there is something on the spectrogram (beatmap is named steganography), for that each difficulty is named after difficulties in various rhythm games, and you need to look by the order I reference them in the text, this will give you the beatmap ID, which in the last part of the description I reference as the "inspiration from my journey", this also includes a reference to look for THE slider in the map which has the trick that idke used and needing a break to show that its before the break, otherwise it could be way too hard. The middle has the 6k rules, to point to something related to 6k, in this case, the frequency where you can find the hidden message. MWC is just to reinforce that if you find the map steganography since it was the tiebreaker.More details on the achievements page and in the solution reveal VOD at 1:24:50.
     </p>
 </div>
@@ -92,7 +92,7 @@ This achievement certainly had the most time and effort put into it, with even a
     <p class="hover-item">Solution (hover)</p>
     <p class="revealed-item">
         Translating the text on all 5 rocks in the background of Yooh - Eternity.
-		<br/><br/>
+        <br/><br/>
         Everlasting refers to the title. Epigrapher is the name of someone who translates ancient texts. "Finally" and "grand" reference it being the grand finals tiebreaker. In addition, it has the catch tag to help them figure that out. "Rock all" hints at translating the text on all the rocks.
     </p>
 </div>
@@ -106,9 +106,9 @@ As the creator of this achievement, I'm certainly biased, but it was definitely 
     <p class="hover-item">Solution (hover)</p>
     <p class="revealed-item">
         Pass any ranked difficulty of Black Pentagram +EZ
-		<br/><br/>
+        <br/><br/>
         This one should be decently fun once you figure out the initial premise. As hinted by the second sentence, the images all reference osu! related phrases, with one letter changed. Taking the new letter in the changed phrases yields the answer “BLAZE PENTAGRAM.” Searching this doesn’t give an exact match, but yields Black Pentagram (hint: dark magic). The clue at the bottom of the webpage hints at doing the same thing again (and flipping) – the two phrases only have two letters changed, giving us EZ, the mod combination we should be using (this last step is weaker than I would like, but is necessary to avoid accidental completions).
-		<br/><br/>
+        <br/><br/>
         See all the answers on yandax's writeup (linked in the paragraph below).
     </p>
 </div>

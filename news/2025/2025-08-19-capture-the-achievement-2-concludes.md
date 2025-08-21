@@ -62,7 +62,7 @@ There were many great achievements, and many people gave different answers on th
 
 ### Sound in Motion
 **Description**: What is a map/chart? To answer that I started to play various maps and charts from diverse games, starting with osu! Standard, osu! Taiko, osu! Mania and osu! Catch, and then I decided that I was too restricted to just play things from osu!, so I decided to venture out and play other things like, Wacca, DDR and SDVX to get an idea of what is important. But after all that, to be honest, I just don't know, they are all so different, each one has more than 6k rules to follow and that doesn't even count what I need to even do things for MWC and similar. But I could notice the passion, so for that I decided to put a bit of my passion in this too, like messing with sliders with some inspiration from mappers like idke, although I need a break. Hope you like it!
-**Attached map**: https://osu.ppy.sh/beatmapsets/2407674#osu/5225815
+**Attached map**: [Nero vs. After School - Sound in Motion vs. AH](https://osu.ppy.sh/beatmapsets/2407674#osu/5225815) (CTA2 difficulties are no longer there)
 **Creator**: [-Rinne-](https://osu.ppy.sh/users/13407431)
 <div>
     <p class="hover-item">Solution (hover)</p>
@@ -71,11 +71,11 @@ There were many great achievements, and many people gave different answers on th
         <br/><br/>
         The title is both the title of the song and referencing there is something with the sound, but most people will miss this.  
         <br/><br/>
-        The description is mainly to find the map to get the hint that there is something on the spectrogram (beatmap is named steganography), for that each difficulty is named after difficulties in various rhythm games, and you need to look by the order I reference them in the text, this will give you the beatmap ID, which in the last part of the description I reference as the "inspiration from my journey", this also includes a reference to look for THE slider in the map which has the trick that idke used and needing a break to show that its before the break, otherwise it could be way too hard. The middle has the 6k rules, to point to something related to 6k, in this case, the frequency where you can find the hidden message. MWC is just to reinforce that if you find the map steganography since it was the tiebreaker.More details on the achievements page and in the solution reveal VOD at 1:24:50.
+        The description is mainly to find the map to get the hint that there is something on the spectrogram (beatmap is named steganography), for that each difficulty is named after difficulties in various rhythm games, and you need to look by the order I reference them in the text, this will give you the beatmap ID, which in the last part of the description I reference as the "inspiration from my journey", this also includes a reference to look for THE slider in the map which has the trick that idke used and needing a break to show that its before the break, otherwise it could be way too hard. The middle has the 6k rules, to point to something related to 6k, in this case, the frequency where you can find the hidden message. MWC is just to reinforce that if you find the map steganography since it was the tiebreaker. More details on the achievements page and in the [solution reveal VOD at 1:24:50](https://www.twitch.tv/videos/2524369287?t=1h24m48s).
     </p>
 </div>
 
-This achievement certainly had the most time and effort put into it, with even a custom map from [TamamoLover](https://osu.ppy.sh/users/7772622). It was made to be a quite difficult achievement, so congrats to the 5 teams that completed it! Here's a comment from Rinne about the achievement:
+This achievement certainly had the most time and effort put into it, with even a custom map from [TamamoLover](https://osu.ppy.sh/users/7772622). It was made to be a quite difficult achievement, so congrats to the 5 teams that completed it! Here's a comment from [-Rinne-](https://osu.ppy.sh/users/13407431) about the achievement:
 
 > So, Sound in Motion uh? Well, this was by far the longest achievement from concept to execution that I ever made (5 months). 
 > 
@@ -125,17 +125,17 @@ As the creator of this achievement, I'm certainly biased, but it was definitely 
     </p>
 </div>
 
-Dragon made several achievements with interesting wordplay, and **INSERT COIN** was liked by many. I also recommend checking out **Perpertually Anxious** and **Ball Load Error** on the [achievements page](https://cta.sheppsu.me/iterations/2/achievements). I'll let Dragon take it away from here:
+[Dragon20942](https://osu.ppy.sh/users/6147964) made several achievements with interesting wordplay, and **INSERT COIN** was liked by many. I also recommend checking out **Perpertually Anxious** and **Ball Load Error** on the [achievements page](https://cta.sheppsu.me/iterations/2/achievements). I'll let [Dragon20942](https://osu.ppy.sh/users/6147964) take it away from here:
 
 > INSERT COIN was really a team effort, and an achievement that was particularly fun for me because of that. Rather than any one of us solo generating a concept, we iterated between different parties in a way that suited our individual strengths. The final idea felt polished and compelling too! The process went something like this:
->    1. I floated the idea of the mods spelling something - Danny had also thought of this,
->    2. I asked about a canonical mod order - Yandax found it and also generated a list of possible words we could spell out,
->    3. We brainstormed and found a few words/maps to try (like SODA and DANS),
->    4. I suggested COIN and Insert Coin mapsets,
->    5. Yandax playtested the COIN mod combination,
->    6. Danny and I tuned the final difficulty/polish:
->        - Redundant title/description highlights the idea that there are 2 conceptual "COINs" and the repetition evokes the idea of the prompt flashing on an arcade cabinet,
->        - COIN should be capitalized since it refers to a mod abbreviation,
+>    1. I floated the idea of the mods spelling something - [Daanny](https://osu.ppy.sh/users/7183087) had also thought of this
+>    2. I asked about a canonical mod order - [yandax](https://osu.ppy.sh/users/17465623) found it and also generated a list of possible words we could spell out
+>    3. We brainstormed and found a few words/maps to try (like SODA and DANS)
+>    4. I suggested COIN and Insert Coin mapsets
+>    5. [yandax](https://osu.ppy.sh/users/17465623) playtested the COIN mod combination
+>    6. [Daanny](https://osu.ppy.sh/users/7183087) and I tuned the final difficulty/polish:
+>        - Redundant title/description highlights the idea that there are 2 conceptual "COINs" and the repetition evokes the idea of the prompt flashing on an arcade cabinet
+>        - COIN should be capitalized since it refers to a mod abbreviation
 >        - INSERT being capitalized helps further underscore the retro/arcade theming while adding some obfuscation for the idea of COIN referring to mods
 >
 > Thank you to everyone who took a crack at it - I'm glad people enjoyed :3

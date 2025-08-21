@@ -24,12 +24,14 @@ Congratulations to the top 3 teams!
 - [Aveil](https://osu.ppy.sh/users/11635646)
 - [WhiteDoable](https://osu.ppy.sh/users/24868424)
 - [frutiger aero](https://osu.ppy.sh/users/10976672)
+
 **2nd place**: Pawsome 🖐️ - 7132 points
 - [brandwagen](https://osu.ppy.sh/users/13925852) 
 - [Flyer](https://osu.ppy.sh/users/9767342)
 - [Skrub](https://osu.ppy.sh/users/10306849) 
 - [Lunar_](https://osu.ppy.sh/users/13688990)
 - [- joshh](https://osu.ppy.sh/users/17957276)
+
 **3rd place**: osu!friends - 6938 points
 - [ming0328ming](https://osu.ppy.sh/users/2984074)
 - [BrandonH](https://osu.ppy.sh/users/5988903)
@@ -92,7 +94,7 @@ This achievement certainly had the most time and effort put into it, with even a
     </p>
 </div>
 
-As the creator of this achievement, I'm certainly biased, but it was definitely my favorite. The idea was initially proposed by [Anonymoose](https://osu.ppy.sh/users/11153810) to somehow use the cryptic language in [Yooh - Eternity](https://osu.ppy.sh/beatmapsets/2402789#fruits/5211146) for an achievement. When I got some free time, I decided to try translating the language, and [yandax](https://osu.ppy.sh/users/17465623) joined in to help me. After an hour, we had a table of symbols to letters (except J and Z, which we're pretty sure were not used anywhere). In the process, [yandax](https://osu.ppy.sh/users/17465623) had translated the text on all 5 rocks. Come a few days later, I finally had a good idea of how we could use this all in an achievement, and thus **The Everlasting Epigrapher** was born. The CWC team absolutely cooked with this tiebreaker and I love it. I think it's pretty cool that we were able to use their little easter egg in an achievement. Like Sound In Motion, this one was also made to be pretty difficult, so well done to the 7 teams that completed it.
+As the creator of this achievement, I'm certainly biased, but it was definitely my favorite. The idea was initially proposed by [Anonymoose](https://osu.ppy.sh/users/11153810) to somehow use the cryptic language in [Yooh - Eternity](https://osu.ppy.sh/beatmapsets/2402789#fruits/5211146) for an achievement—this being before the translation was revealed. When I got some free time, I decided to try translating the language, and [yandax](https://osu.ppy.sh/users/17465623) joined in to help me. After an hour, we had a table of symbols to letters (except J and Z, which we're pretty sure were not used anywhere). In the process, [yandax](https://osu.ppy.sh/users/17465623) had translated the text on all 5 rocks. Come a few days later, I finally had a good idea of how we could use this all in an achievement, and thus **The Everlasting Epigrapher** was born. The CWC team absolutely cooked with this tiebreaker and I love it. I think it's pretty cool that we were able to use their little easter egg in an achievement. Like Sound In Motion, this one was also made to be pretty difficult, so well done to the 7 teams that completed it.
 
 ### Graphic Design Is My Passion
 **Description:** Sheppsu's been busy updating the site, so he put me in charge of graphic design. The lineup he gave me looked a bit unfamiliar, but I managed to pull things off with the help of some dark magic. [https://yanda-dy.github.io/cta2-external/graphic_2b2d5018fe0cb636.html](https://yanda-dy.github.io/cta2-external/graphic_2b2d5018fe0cb636.html)

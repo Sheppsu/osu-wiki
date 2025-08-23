@@ -21,7 +21,7 @@ Congratulations to the top 3 teams!
 ### 1st place: thought it was a normal tourney - 7613 points / 90 solves
 
 | Player | Points | Solves | Individual placement |
-| :-: | :-- | :-- | :-- | :-- |
+| :-: | :-: | :-: | :-- |
 | [--Glitchy--](https://osu.ppy.sh/users/30644569) | 192 | 2 | 159 |
 | [21Jeff21](https://osu.ppy.sh/users/11050944) | 1441 | 17 | 36 |
 | [Aveil](https://osu.ppy.sh/users/11635646) | 2044 | 23 | 23 |
@@ -31,7 +31,7 @@ Congratulations to the top 3 teams!
 ### 2nd place: Pawsome 🖐️ - 7132 points
 
 | Player | Points | Solves | Individual placement |
-| :-: | :-- | :-- | :-- | :-- |
+| :-: | :-: | :-: | :-- |
 | [brandwagen](https://osu.ppy.sh/users/13925852)  | 915 | 12 | 47 |
 | [Flyer](https://osu.ppy.sh/users/9767342) | 3243 | 36 | 8 |
 | [Skrub](https://osu.ppy.sh/users/10306849) | 1075 | 12 | 44 |
@@ -41,7 +41,7 @@ Congratulations to the top 3 teams!
 ### 3rd place: osu!friends - 6938 points
 
 | Player | Points | Solves | Individual placement |
-| :-: | :-- | :-- | :-- | :-- |
+| :-: | :-: | :-: | :-- |
 | [ming0328ming](https://osu.ppy.sh/users/2984074)  | 5505 | 67 | 1 |
 | [BrandonH](https://osu.ppy.sh/users/5988903) | 733 | 78 | 59 |
 | [Zefkiel](https://osu.ppy.sh/users/7989469) | 114 | 2 | 197 |

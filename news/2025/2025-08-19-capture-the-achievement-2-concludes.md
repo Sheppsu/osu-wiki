@@ -12,7 +12,7 @@ For those first hearing of [Capture The Achievement](https://osu.ppy.sh/home/new
 
 This was such a packed two weeks of achievement hunting! With a non-stop stream of achievements, teams spent hours everyday on solving puzzles, deciphering achievements, researching, racking their brains, and going a bit crazy.
 
-Let's go back and look at some highlights of Capture The Achievement 2.
+Let's go back and look at some highlights of [Capture The Achievement 2](https://cta.sheppsu.me/iterations/2).
 
 ## Top place finishers
 
@@ -134,9 +134,9 @@ So, Sound in Motion uh? Well, this was by far the longest achievement from conce
 
 It started back in March when I was working with audio files and had the idea to learn Steganography, this eventually brought the original idea for the achievement when I proposed making one related to it as a "sequel" to Vex. Originally it was supposed to be a pretty simple achievement where you just had to find the numbers in the mp3, with the hints pointing right at it. But that was found to be just too boring and quick, wasting a good idea. The second iteration on the other hand had the intention of adding the slider anchor art or just slider arts with the string of numbers in a single difficulty, but like the last time, the achievement was still missing that extra part to make it perfect, and then it hit me, 12h before release, what if I named every diff "expert" in different languages, quickly realized that I couldn't do anything with that and then it hit me... What about just rhythm game difficulties? And it was perfect. 
 
-If I had to say what was the biggest hurdle, it would 100% be the description. As some might know from CTA1, there was an achievement that I made called "Butchering a Name" has a writing style very similar, where I like to write a very long description with the hints sprinkled in it. The problem with that is of course the word soup that might be created, and when the first description draft was submitted, Sheppsu clearly saw that as a problem, and after 4 iterations, the final description was reached, even if Sheppsu thought it was a bit too long, I didn't want to budge anymore, feeling that I would be sacrificing my style. 
+If I had to say what was the biggest hurdle, it would 100% be the description. As some might know from [CTA1](https://cta.sheppsu.me/iterations/1), there was an achievement that I made called "Butchering a Name" has a writing style very similar, where I like to write a very long description with the hints sprinkled in it. The problem with that is of course the word soup that might be created, and when the first description draft was submitted, Sheppsu clearly saw that as a problem, and after 4 iterations, the final description was reached, even if Sheppsu thought it was a bit too long, I didn't want to budge anymore, feeling that I would be sacrificing my style. 
 
-So yeah, that was Sound In Motion, once again thanks to Sheppsu for giving the idea for and making the slider anchors and rc4322 for making the map. I promise the next one will be even better.
+So yeah, that was Sound In Motion, once again thanks to Sheppsu for giving the idea for and making the slider anchors and [TamamoLover](https://osu.ppy.sh/users/7772622) for making the map. I promise the next one will be even better.
 
 </div>
 
@@ -172,7 +172,7 @@ As the creator of this achievement, I'm certainly biased, but it was definitely 
     </p>
 </div>
 
-[yandax](https://osu.ppy.sh/users/17465623) made several puzzle-oriented achievements that were widely loved. It's tough to pick just one to highlight, but this one was among the most favorite. Best of all, you can try it yourself by clicking the link in the achievement description! You can read yandax's comment on this one and see the solutions [here](https://yanda-dy.github.io/cta2-external/solutions_e1529b90acab3664/solutions.html#graphic-design-is-my-passion).
+[yandax](https://osu.ppy.sh/users/17465623) made several puzzle-oriented achievements that were widely loved. It's tough to pick just one to highlight, but this one was among the most favorite. Best of all, you can [try it yourself](https://yanda-dy.github.io/cta2-external/graphic_2b2d5018fe0cb636.html)! You can read yandax's comment on this one and see the solutions [here](https://yanda-dy.github.io/cta2-external/solutions_e1529b90acab3664/solutions.html#graphic-design-is-my-passion).
 
 ### INSERT COIN
 

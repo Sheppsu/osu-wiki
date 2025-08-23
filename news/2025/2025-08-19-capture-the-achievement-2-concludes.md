@@ -123,7 +123,7 @@ This achievement certainly had the most time and effort put into it, with even a
 
 <div class="news-chat-quote__text-container">
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/13407431" style="background-image: url('/wiki/shared/2025-08-19-capture-the-achievement-2-concludes/-Rinne-.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/13407431" style="background-image: url('/wiki/shared/avatars/-Rinne-.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/13407431">-Rinne-</a></p>
 
@@ -136,14 +136,6 @@ If I had to say what was the biggest hurdle, it would 100% be the description. A
 So yeah, that was Sound In Motion, once again thanks to Sheppsu for giving the idea for and making the slider anchors and rc4322 for making the map. I promise the next one will be even better.
 
 </div>
-
-> So, Sound in Motion uh? Well, this was by far the longest achievement from concept to execution that I ever made (5 months). 
-> 
-> It started back in March when I was working with audio files and had the idea to learn Steganography, this eventually brought the original idea for the achievement when I proposed making one related to it as a "sequel" to Vex. Originally it was supposed to be a pretty simple achievement where you just had to find the numbers in the mp3, with the hints pointing right at it. But that was found to be just too boring and quick, wasting a good idea. The second iteration on the other hand had the intention of adding the slider anchor art or just slider arts with the string of numbers in a single difficulty, but like the last time, the achievement was still missing that extra part to make it perfect, and then it hit me, 12h before release, what if I named every diff "expert" in different languages, quickly realized that I couldn't do anything with that and then it hit me... What about just rhythm game difficulties? And it was perfect. 
-> 
-> If I had to say what was the biggest hurdle, it would 100% be the description. As some might know from CTA1, there was an achievement that I made called "Butchering a Name" has a writing style very similar, where I like to write a very long description with the hints sprinkled in it. The problem with that is of course the word soup that might be created, and when the first description draft was submitted, Sheppsu clearly saw that as a problem, and after 4 iterations, the final description was reached, even if Sheppsu thought it was a bit too long, I didn't want to budge anymore, feeling that I would be sacrificing my style. 
-> 
-> So yeah, that was Sound In Motion, once again thanks to Sheppsu for giving the idea for and making the slider anchors and rc4322 for making the map. I promise the next one will be even better.
 
 ### The Everlasting Epigrapher
 
@@ -193,18 +185,26 @@ As the creator of this achievement, I'm certainly biased, but it was definitely 
 
 [Dragon20942](https://osu.ppy.sh/users/6147964) made several achievements with interesting wordplay, and **INSERT COIN** was liked by many. I also recommend checking out **Perpertually Anxious** and **Ball Load Error** on the [achievements page](https://cta.sheppsu.me/iterations/2/achievements). I'll let [Dragon20942](https://osu.ppy.sh/users/6147964) take it away from here:
 
-> INSERT COIN was really a team effort, and an achievement that was particularly fun for me because of that. Rather than any one of us solo generating a concept, we iterated between different parties in a way that suited our individual strengths. The final idea felt polished and compelling too! The process went something like this:
->    1. I floated the idea of the mods spelling something - [Daanny](https://osu.ppy.sh/users/7183087) had also thought of this
->    2. I asked about a canonical mod order - [yandax](https://osu.ppy.sh/users/17465623) found it and also generated a list of possible words we could spell out
->    3. We brainstormed and found a few words/maps to try (like SODA and DANS)
->    4. I suggested COIN and Insert Coin mapsets
->    5. [yandax](https://osu.ppy.sh/users/17465623) playtested the COIN mod combination
->    6. [Daanny](https://osu.ppy.sh/users/7183087) and I tuned the final difficulty/polish:
->        - Redundant title/description highlights the idea that there are 2 conceptual "COINs" and the repetition evokes the idea of the prompt flashing on an arcade cabinet
->        - COIN should be capitalized since it refers to a mod abbreviation
->        - INSERT being capitalized helps further underscore the retro/arcade theming while adding some obfuscation for the idea of COIN referring to mods
->
-> Thank you to everyone who took a crack at it - I'm glad people enjoyed :3
+<div class="news-chat-quote__text-container">
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6147964" style="background-image: url('/wiki/shared/avatars/Dragon20942.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/6147964">Dragon20942</a></p>
+
+INSERT COIN was really a team effort, and an achievement that was particularly fun for me because of that. Rather than any one of us solo generating a concept, we iterated between different parties in a way that suited our individual strengths. The final idea felt polished and compelling too! The process went something like this:
+    1. I floated the idea of the mods spelling something - [Daanny](https://osu.ppy.sh/users/7183087) had also thought of this
+    2. I asked about a canonical mod order - [yandax](https://osu.ppy.sh/users/17465623) found it and also generated a list of possible words we could spell out
+    3. We brainstormed and found a few words/maps to try (like SODA and DANS)
+    4. I suggested COIN and Insert Coin mapsets
+    5. [yandax](https://osu.ppy.sh/users/17465623) playtested the COIN mod combination
+    6. [Daanny](https://osu.ppy.sh/users/7183087) and I tuned the final difficulty/polish:
+        - Redundant title/description highlights the idea that there are 2 conceptual "COINs" and the repetition evokes the idea of the prompt flashing on an arcade cabinet
+        - COIN should be capitalized since it refers to a mod abbreviation
+        - INSERT being capitalized helps further underscore the retro/arcade theming while adding some obfuscation for the idea of COIN referring to mods
+
+Thank you to everyone who took a crack at it - I'm glad people enjoyed :3
+
+</div>
 
 ### ￼
 

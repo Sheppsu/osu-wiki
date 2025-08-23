@@ -59,16 +59,40 @@ There were many great achievements, and many people gave different answers on th
         width: 115px;
         font-weight: 600;
     }
+	
     .revealed-item {
         display: none;
         border: 2px solid white;
         padding: 10px;
     }
+	
     .hover-item:hover ~ .revealed-item {
         display: block;
     }
+	
     .revealed-item:hover {
         display: block;
+    }
+	
+	.news-chat-quote__avatar {
+        float: left;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        margin-left: -50px;
+    }
+
+    .news-chat-quote__text-container {
+        margin-left: 50px;
+    }
+
+    .news-chat-quote__username {
+        font-weight: 600;
+        margin-bottom: 2px;
+    }
+
+    .news-chat-quote__colour-no-group {
+        color: #FFFFFF;
     }
 </style>
 
@@ -96,6 +120,22 @@ There were many great achievements, and many people gave different answers on th
 </div>
 
 This achievement certainly had the most time and effort put into it, with even a custom map from [TamamoLover](https://osu.ppy.sh/users/7772622). It was made to be a quite difficult achievement, so congrats to the 5 teams that completed it! Here's a comment from [-Rinne-](https://osu.ppy.sh/users/13407431) about the achievement:
+
+<div class="news-chat-quote__text-container">
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/13407431" style="background-image: url('/wiki/shared/2025-08-19-capture-the-achievement-2-concludes/-Rinne-.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/13407431">-Rinne-</a></p>
+
+So, Sound in Motion uh? Well, this was by far the longest achievement from concept to execution that I ever made (5 months). 
+
+It started back in March when I was working with audio files and had the idea to learn Steganography, this eventually brought the original idea for the achievement when I proposed making one related to it as a "sequel" to Vex. Originally it was supposed to be a pretty simple achievement where you just had to find the numbers in the mp3, with the hints pointing right at it. But that was found to be just too boring and quick, wasting a good idea. The second iteration on the other hand had the intention of adding the slider anchor art or just slider arts with the string of numbers in a single difficulty, but like the last time, the achievement was still missing that extra part to make it perfect, and then it hit me, 12h before release, what if I named every diff "expert" in different languages, quickly realized that I couldn't do anything with that and then it hit me... What about just rhythm game difficulties? And it was perfect. 
+
+If I had to say what was the biggest hurdle, it would 100% be the description. As some might know from CTA1, there was an achievement that I made called "Butchering a Name" has a writing style very similar, where I like to write a very long description with the hints sprinkled in it. The problem with that is of course the word soup that might be created, and when the first description draft was submitted, Sheppsu clearly saw that as a problem, and after 4 iterations, the final description was reached, even if Sheppsu thought it was a bit too long, I didn't want to budge anymore, feeling that I would be sacrificing my style. 
+
+So yeah, that was Sound In Motion, once again thanks to Sheppsu for giving the idea for and making the slider anchors and rc4322 for making the map. I promise the next one will be even better.
+
+</div>
 
 > So, Sound in Motion uh? Well, this was by far the longest achievement from concept to execution that I ever made (5 months). 
 > 

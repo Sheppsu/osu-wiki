@@ -18,31 +18,38 @@ The competition for the top spots was fierce, with 1st place frequently swapping
 
 Congratulations to the top 3 teams!
 
-### 1st place: thought it was a normal tourney - 7613 points
+### 1st place: thought it was a normal tourney - 7613 points / 90 solves
 
-- [--Glitchy--](https://osu.ppy.sh/users/30644569)
-- [21Jeff21](https://osu.ppy.sh/users/11050944)
-- [Aveil](https://osu.ppy.sh/users/11635646)
-- [WhiteDoable](https://osu.ppy.sh/users/24868424)
-- [frutiger aero](https://osu.ppy.sh/users/10976672)
+| Player | Points | Solves | Individual placement |
+| :-: | :-- | :-- | :-- | :-- |
+| [--Glitchy--](https://osu.ppy.sh/users/30644569) | 192 | 2 | 159 |
+| [21Jeff21](https://osu.ppy.sh/users/11050944) | 1441 | 17 | 36 |
+| [Aveil](https://osu.ppy.sh/users/11635646) | 2044 | 23 | 23 |
+| [WhiteDoable](https://osu.ppy.sh/users/24868424) | 190 | 2 | 160 |
+| [frutiger aero](https://osu.ppy.sh/users/10976672) | 3746 | 46 | 4 |
 
 ### 2nd place: Pawsome 🖐️ - 7132 points
 
-- [brandwagen](https://osu.ppy.sh/users/13925852) 
-- [Flyer](https://osu.ppy.sh/users/9767342)
-- [Skrub](https://osu.ppy.sh/users/10306849) 
-- [Lunar_](https://osu.ppy.sh/users/13688990)
-- [- joshh](https://osu.ppy.sh/users/17957276)
+| Player | Points | Solves | Individual placement |
+| :-: | :-- | :-- | :-- | :-- |
+| [brandwagen](https://osu.ppy.sh/users/13925852)  | 915 | 12 | 47 |
+| [Flyer](https://osu.ppy.sh/users/9767342) | 3243 | 36 | 8 |
+| [Skrub](https://osu.ppy.sh/users/10306849) | 1075 | 12 | 44 |
+| [Lunar_](https://osu.ppy.sh/users/13688990) | 582 | 7 | 78 |
+| [- joshh](https://osu.ppy.sh/users/17957276) | 1317 | 17 | 39 |
 
 ### 3rd place: osu!friends - 6938 points
 
-- [ming0328ming](https://osu.ppy.sh/users/2984074)
-- [BrandonH](https://osu.ppy.sh/users/5988903)
-- [Zefkiel](https://osu.ppy.sh/users/7989469)
-- [Chloe Wing Kiu](https://osu.ppy.sh/users/10625776)
-- [Jurme](https://osu.ppy.sh/users/6282195)
+| Player | Points | Solves | Individual placement |
+| :-: | :-- | :-- | :-- | :-- |
+| [ming0328ming](https://osu.ppy.sh/users/2984074)  | 5505 | 67 | 1 |
+| [BrandonH](https://osu.ppy.sh/users/5988903) | 733 | 78 | 59 |
+| [Zefkiel](https://osu.ppy.sh/users/7989469) | 114 | 2 | 197 |
+| [Chloe Wing Kiu](https://osu.ppy.sh/users/10625776) | 494 | 6 | 91 |
+| [Jurme](https://osu.ppy.sh/users/6282195) | 92 | 1 | 211 |
 
 ## Achievement highlights
+
 There were many great achievements, and many people gave different answers on their favorite achievements, but I'd like to highlight a small handful of them. For a list of all the achievements, check the [CTA2 achievements page](https://cta.sheppsu.me/iterations/2/achievements).
 
 <style>
@@ -66,6 +73,7 @@ There were many great achievements, and many people gave different answers on th
 </style>
 
 ### Sound in Motion
+
 **Description**: What is a map/chart? To answer that I started to play various maps and charts from diverse games, starting with osu! Standard, osu! Taiko, osu! Mania and osu! Catch, and then I decided that I was too restricted to just play things from osu!, so I decided to venture out and play other things like, Wacca, DDR and SDVX to get an idea of what is important. But after all that, to be honest, I just don't know, they are all so different, each one has more than 6k rules to follow and that doesn't even count what I need to even do things for MWC and similar. But I could notice the passion, so for that I decided to put a bit of my passion in this too, like messing with sliders with some inspiration from mappers like idke, although I need a break. Hope you like it!
 **Attached map**: [Nero vs. After School - Sound in Motion vs. AH](https://osu.ppy.sh/beatmapsets/2407674#osu/5225815) (CTA2 difficulties are no longer there)
 **Creator**: [-Rinne-](https://osu.ppy.sh/users/13407431)
@@ -91,6 +99,7 @@ This achievement certainly had the most time and effort put into it, with even a
 > So yeah, that was Sound In Motion, once again thanks to Sheppsu for giving the idea for and making the slider anchors and rc4322 for making the map. I promise the next one will be even better.
 
 ### The Everlasting Epigrapher
+
 **Description:** Finally, your grand discovery will rock all.
 **Creator:** [Sheppsu](https://osu.ppy.sh/users/14895608)
 <div>
@@ -105,6 +114,7 @@ This achievement certainly had the most time and effort put into it, with even a
 As the creator of this achievement, I'm certainly biased, but it was definitely my favorite. The idea was initially proposed by [Anonymoose](https://osu.ppy.sh/users/11153810) to somehow use the cryptic language in [Yooh - Eternity](https://osu.ppy.sh/beatmapsets/2402789#fruits/5211146) for an achievement—this being before the translation was revealed. When I got some free time, I decided to try translating the language, and [yandax](https://osu.ppy.sh/users/17465623) joined in to help me. After an hour, we had a table of symbols to letters (except J and Z, which we're pretty sure were not used anywhere). In the process, [yandax](https://osu.ppy.sh/users/17465623) had translated the text on all 5 rocks. Come a few days later, I finally had a good idea of how we could use this all in an achievement, and thus **The Everlasting Epigrapher** was born. The CWC team absolutely cooked with this tiebreaker and I love it. I think it's pretty cool that we were able to use their little easter egg in an achievement. Like Sound In Motion, this one was also made to be pretty difficult, so well done to the 7 teams that completed it.
 
 ### Graphic Design Is My Passion
+
 **Description:** Sheppsu's been busy updating the site, so he put me in charge of graphic design. The lineup he gave me looked a bit unfamiliar, but I managed to pull things off with the help of some dark magic. [https://yanda-dy.github.io/cta2-external/graphic_2b2d5018fe0cb636.html](https://yanda-dy.github.io/cta2-external/graphic_2b2d5018fe0cb636.html)
 **Creator:** [yandax](https://osu.ppy.sh/users/17465623)
 <div>
@@ -121,6 +131,7 @@ As the creator of this achievement, I'm certainly biased, but it was definitely 
 [yandax](https://osu.ppy.sh/users/17465623) made several puzzle-oriented achievements that were widely loved. It's tough to pick just one to highlight, but this one was among the most favorite. Best of all, you can try it yourself by clicking the link in the achievement description! You can read yandax's comment on this one and see the solutions [here](https://yanda-dy.github.io/cta2-external/solutions_e1529b90acab3664/solutions.html#graphic-design-is-my-passion).
 
 ### INSERT COIN
+
 **Description:** INSERT COIN
 **Creator:** [Dragon20942](https://osu.ppy.sh/users/6147964)
 <div>
@@ -146,18 +157,20 @@ As the creator of this achievement, I'm certainly biased, but it was definitely 
 > Thank you to everyone who took a crack at it - I'm glad people enjoyed :3
 
 ### ￼
+
 **Description:** Wait, wasn't there supposed to be something here?
 **Creator:** [Anonymoose](https://osu.ppy.sh/users/11153810)
 <div>
     <p class="hover-item">Solution (hover)</p>
     <p class="revealed-item">
-        While not visible here, on the CTA achievements page, if you use inspect element on the title of the achievement, you'll see a beatmap id, 100 count, and miss count specified on the html tag.
+        While not visible here, on the <a href="https://cta.sheppsu.me/iterations/2/achievements">CTA achievements page</a>, if you use inspect element on the title of the achievement, you'll see a beatmap id, 100 count, and miss count specified on the html tag.
     </p>
 </div>
 
 This achievement, while having a simple solution, required some out-of-the-box thinking. It's a pretty cool one for the creativity in its solution. Still, it wasn't challenging enough for some, with the first completion being 6 minutes after release and 23 teams completing it!
 
 ### Touhosu!
+
 **Description:** No Bombs, No Border Breaks, No Deaths. How far can you push it?
 **Creator:** [catgirl enjoyer](https://osu.ppy.sh/users/18319269)
 

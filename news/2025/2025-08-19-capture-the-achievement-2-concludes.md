@@ -28,7 +28,7 @@ Congratulations to the top 3 teams!
 | [WhiteDoable](https://osu.ppy.sh/users/24868424) | 190 | 2 | 160 |
 | [frutiger aero](https://osu.ppy.sh/users/10976672) | 3746 | 46 | 4 |
 
-### 2nd place: Pawsome 🖐️ - 7132 points
+### 2nd place: Pawsome 🖐️ - 7132 points / 84 solves
 
 | Player | Points | Solves | Individual placement |
 | :-: | :-: | :-: | :-- |
@@ -38,12 +38,12 @@ Congratulations to the top 3 teams!
 | [Lunar_](https://osu.ppy.sh/users/13688990) | 582 | 7 | 78 |
 | [- joshh](https://osu.ppy.sh/users/17957276) | 1317 | 17 | 39 |
 
-### 3rd place: osu!friends - 6938 points
+### 3rd place: osu!friends - 6938 points / 85 solves
 
 | Player | Points | Solves | Individual placement |
 | :-: | :-: | :-: | :-- |
 | [ming0328ming](https://osu.ppy.sh/users/2984074)  | 5505 | 67 | 1 |
-| [BrandonH](https://osu.ppy.sh/users/5988903) | 733 | 78 | 59 |
+| [BrandonH](https://osu.ppy.sh/users/5988903) | 733 | 9 | 59 |
 | [Zefkiel](https://osu.ppy.sh/users/7989469) | 114 | 2 | 197 |
 | [Chloe Wing Kiu](https://osu.ppy.sh/users/10625776) | 494 | 6 | 91 |
 | [Jurme](https://osu.ppy.sh/users/6282195) | 92 | 1 | 211 |

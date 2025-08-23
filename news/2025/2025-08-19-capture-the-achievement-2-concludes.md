@@ -8,6 +8,8 @@ Capture The Achievement 2 has concluded, with 2649 completions across 104 teams!
 
 ![](/wiki/shared/news/2025-06-21-capture-the-achievement-2/banner.jpg)
 
+For those first hearing of Capture The Achievement: it's a scavenger hunt event built around the idea of medal hunting. Teams earn points by completing "achievements" with custom requirements. Many have hidden requirements, similar to hush-hush medals.
+
 This was such a packed two weeks of achievement hunting! With a non-stop stream of achievements, teams spent hours everyday on solving puzzles, deciphering achievements, researching, racking their brains, and going a bit crazy.
 
 Let's go back and look at some highlights of Capture The Achievement 2.

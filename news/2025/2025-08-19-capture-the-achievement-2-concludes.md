@@ -22,21 +22,22 @@ Congratulations to the top 3 teams!
 
 | Player | Points | Solves | Individual placement |
 | :-: | :-: | :-: | :-- |
-| [--Glitchy--](https://osu.ppy.sh/users/30644569) | 192 | 2 | 159 |
-| [21Jeff21](https://osu.ppy.sh/users/11050944) | 1441 | 17 | 36 |
-| [Aveil](https://osu.ppy.sh/users/11635646) | 2044 | 23 | 23 |
-| [WhiteDoable](https://osu.ppy.sh/users/24868424) | 190 | 2 | 160 |
 | [frutiger aero](https://osu.ppy.sh/users/10976672) | 3746 | 46 | 4 |
+| [Aveil](https://osu.ppy.sh/users/11635646) | 2044 | 23 | 23 |
+| [21Jeff21](https://osu.ppy.sh/users/11050944) | 1441 | 17 | 36 |
+| [--Glitchy--](https://osu.ppy.sh/users/30644569) | 192 | 2 | 159 |
+| [WhiteDoable](https://osu.ppy.sh/users/24868424) | 190 | 2 | 160 |
+
 
 ### 2nd place: Pawsome 🖐️ - 7132 points / 84 solves
 
 | Player | Points | Solves | Individual placement |
 | :-: | :-: | :-: | :-- |
-| [brandwagen](https://osu.ppy.sh/users/13925852)  | 915 | 12 | 47 |
 | [Flyer](https://osu.ppy.sh/users/9767342) | 3243 | 36 | 8 |
-| [Skrub](https://osu.ppy.sh/users/10306849) | 1075 | 12 | 44 |
-| [Lunar_](https://osu.ppy.sh/users/13688990) | 582 | 7 | 78 |
 | [- joshh](https://osu.ppy.sh/users/17957276) | 1317 | 17 | 39 |
+| [Skrub](https://osu.ppy.sh/users/10306849) | 1075 | 12 | 44 |
+| [brandwagen](https://osu.ppy.sh/users/13925852)  | 915 | 12 | 47 |
+| [Lunar_](https://osu.ppy.sh/users/13688990) | 582 | 7 | 78 |
 
 ### 3rd place: osu!friends - 6938 points / 85 solves
 
@@ -44,8 +45,8 @@ Congratulations to the top 3 teams!
 | :-: | :-: | :-: | :-- |
 | [ming0328ming](https://osu.ppy.sh/users/2984074)  | 5505 | 67 | 1 |
 | [BrandonH](https://osu.ppy.sh/users/5988903) | 733 | 9 | 59 |
-| [Zefkiel](https://osu.ppy.sh/users/7989469) | 114 | 2 | 197 |
 | [Chloe Wing Kiu](https://osu.ppy.sh/users/10625776) | 494 | 6 | 91 |
+| [Zefkiel](https://osu.ppy.sh/users/7989469) | 114 | 2 | 197 |
 | [Jurme](https://osu.ppy.sh/users/6282195) | 92 | 1 | 211 |
 
 ## Achievement highlights

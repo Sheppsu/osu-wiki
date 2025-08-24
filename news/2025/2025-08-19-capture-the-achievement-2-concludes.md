@@ -20,9 +20,9 @@ The competition for the top spots was fierce, with 1st place frequently swapping
 
 Congratulations to the top 3 teams!
 
-### 1st place: thought it was a normal tourney - 7613 points / 90 solves
+### 1st place: thought it was a normal tourney - 7613 points / 90 completions
 
-| Player | Points | Solves | Individual placement |
+| Player | Points | Completions | Individual placement |
 | :-: | :-: | :-: | :-- |
 | [frutiger aero](https://osu.ppy.sh/users/10976672) | 3746 | 46 | 4 |
 | [Aveil](https://osu.ppy.sh/users/11635646) | 2044 | 23 | 23 |
@@ -31,9 +31,9 @@ Congratulations to the top 3 teams!
 | [WhiteDoable](https://osu.ppy.sh/users/24868424) | 190 | 2 | 160 |
 
 
-### 2nd place: Pawsome 🖐️ - 7132 points / 84 solves
+### 2nd place: Pawsome 🖐️ - 7132 points / 84 completions
 
-| Player | Points | Solves | Individual placement |
+| Player | Points | Completions | Individual placement |
 | :-: | :-: | :-: | :-- |
 | [Flyer](https://osu.ppy.sh/users/9767342) | 3243 | 36 | 8 |
 | [- joshh](https://osu.ppy.sh/users/17957276) | 1317 | 17 | 39 |
@@ -41,9 +41,9 @@ Congratulations to the top 3 teams!
 | [brandwagen](https://osu.ppy.sh/users/13925852)  | 915 | 12 | 47 |
 | [Lunar_](https://osu.ppy.sh/users/13688990) | 582 | 7 | 78 |
 
-### 3rd place: osu!friends - 6938 points / 85 solves
+### 3rd place: osu!friends - 6938 points / 85 completions
 
-| Player | Points | Solves | Individual placement |
+| Player | Points | Completions | Individual placement |
 | :-: | :-: | :-: | :-- |
 | [ming0328ming](https://osu.ppy.sh/users/2984074)  | 5505 | 67 | 1 |
 | [BrandonH](https://osu.ppy.sh/users/5988903) | 733 | 9 | 59 |
@@ -101,15 +101,11 @@ There were many great achievements, and many people gave different answers on th
 
 ### Sound in Motion
 
-| Title | Description | Beatmap | Creator |
-| --: | :-: | :-: | :-- |
-| Sound in Motion | What is a map/chart? To answer that I started to play various maps and charts from diverse games, starting with osu! Standard, osu! Taiko, osu! Mania and osu! Catch, and then I decided that I was too restricted to just play things from osu!, so I decided to venture out and play other things like, Wacca, DDR and SDVX to get an idea of what is important. But after all that, to be honest, I just don't know, they are all so different, each one has more than 6k rules to follow and that doesn't even count what I need to even do things for MWC and similar. But I could notice the passion, so for that I decided to put a bit of my passion in this too, like messing with sliders with some inspiration from mappers like idke, although I need a break. Hope you like it! | [Nero vs. After School - Sound in Motion vs. AH](https://osu.ppy.sh/beatmapsets/2407674#osu/5225815) (CTA2 difficulties are no longer there) | [-Rinne-](https://osu.ppy.sh/users/13407431) |
-
-| Title | Sound in Motion |
+| | |
 | --: | :-- |
 | Description | What is a map/chart? To answer that I started to play various maps and charts from diverse games, starting with osu! Standard, osu! Taiko, osu! Mania and osu! Catch, and then I decided that I was too restricted to just play things from osu!, so I decided to venture out and play other things like, Wacca, DDR and SDVX to get an idea of what is important. But after all that, to be honest, I just don't know, they are all so different, each one has more than 6k rules to follow and that doesn't even count what I need to even do things for MWC and similar. But I could notice the passion, so for that I decided to put a bit of my passion in this too, like messing with sliders with some inspiration from mappers like idke, although I need a break. Hope you like it! |
 | Beatmap | [Nero vs. After School - Sound in Motion vs. AH](https://osu.ppy.sh/beatmapsets/2407674#osu/5225815) (CTA2 difficulties are no longer there) |
-| Creator | [-Rinne-](https://osu.ppy.sh/users/13407431) |
+| Creator | ::{ flag=PT }:: [-Rinne-](https://osu.ppy.sh/users/13407431) |
 
 <div>
     <p class="hover-item">Solution (hover)</p>
@@ -142,13 +138,15 @@ So yeah, that was Sound In Motion, once again thanks to Sheppsu for giving the i
 
 ### The Everlasting Epigrapher
 
-**Description:** Finally, your grand discovery will rock all.
-**Creator:** [Sheppsu](https://osu.ppy.sh/users/14895608)
+| | |
+| --: | :-- |
+| Description | Finally, your grand discovery will rock all. |
+| Creator | ::{ flag=US }:: [Sheppsu](https://osu.ppy.sh/users/14895608) |
 
 <div>
     <p class="hover-item">Solution (hover)</p>
     <p class="revealed-item">
-        Translating the text on all 5 rocks in the background of Yooh - Eternity.
+        Translating the text on all 5 rocks in the background of <a href="https://osu.ppy.sh/beatmapsets/2402789#fruits/5211146">Yooh - Eternity</a>.
         <br/><br/>
         Everlasting refers to the title. Epigrapher is the name of someone who translates ancient texts. "Finally" and "grand" reference it being the grand finals tiebreaker. In addition, it has the catch tag to help them figure that out. "Rock all" hints at translating the text on all the rocks.
     </p>
@@ -158,8 +156,10 @@ As the creator of this achievement, I'm certainly biased, but it was definitely 
 
 ### Graphic Design Is My Passion
 
-**Description:** Sheppsu's been busy updating the site, so he put me in charge of graphic design. The lineup he gave me looked a bit unfamiliar, but I managed to pull things off with the help of some dark magic. [https://yanda-dy.github.io/cta2-external/graphic_2b2d5018fe0cb636.html](https://yanda-dy.github.io/cta2-external/graphic_2b2d5018fe0cb636.html)
-**Creator:** [yandax](https://osu.ppy.sh/users/17465623)
+| | |
+| --: | :-- |
+| Description | Sheppsu's been busy updating the site, so he put me in charge of graphic design. The lineup he gave me looked a bit unfamiliar, but I managed to pull things off with the help of some dark magic. [https://yanda-dy.github.io/cta2-external/graphic_2b2d5018fe0cb636.html](https://yanda-dy.github.io/cta2-external/graphic_2b2d5018fe0cb636.html) |
+| Creator | ::{ flag=CA }:: [yandax](https://osu.ppy.sh/users/17465623) |
 
 <div>
     <p class="hover-item">Solution (hover)</p>
@@ -168,16 +168,18 @@ As the creator of this achievement, I'm certainly biased, but it was definitely 
         <br/><br/>
         This one should be decently fun once you figure out the initial premise. As hinted by the second sentence, the images all reference osu! related phrases, with one letter changed. Taking the new letter in the changed phrases yields the answer “BLAZE PENTAGRAM.” Searching this doesn’t give an exact match, but yields Black Pentagram (hint: dark magic). The clue at the bottom of the webpage hints at doing the same thing again (and flipping) – the two phrases only have two letters changed, giving us EZ, the mod combination we should be using (this last step is weaker than I would like, but is necessary to avoid accidental completions).
         <br/><br/>
-        See all the answers on yandax's writeup (linked in the paragraph below).
+        See all the answers on <a href="https://yanda-dy.github.io/cta2-external/solutions_e1529b90acab3664/solutions.html#graphic-design-is-my-passion">yandax's writeup</a>.
     </p>
 </div>
 
-[yandax](https://osu.ppy.sh/users/17465623) made several puzzle-oriented achievements that were widely loved. It's tough to pick just one to highlight, but this one was among the most favorite. Best of all, you can [try it yourself](https://yanda-dy.github.io/cta2-external/graphic_2b2d5018fe0cb636.html)! You can read yandax's comment on this one and see the solutions [here](https://yanda-dy.github.io/cta2-external/solutions_e1529b90acab3664/solutions.html#graphic-design-is-my-passion).
+[yandax](https://osu.ppy.sh/users/17465623) made several puzzle-oriented achievements that were widely loved. It's tough to pick just one to highlight, but this one was among the most favorite. Best of all, you can [try it yourself](https://yanda-dy.github.io/cta2-external/graphic_2b2d5018fe0cb636.html)! You can read [yandax](https://osu.ppy.sh/users/17465623)'s comment on this one and see the solutions [here](https://yanda-dy.github.io/cta2-external/solutions_e1529b90acab3664/solutions.html#graphic-design-is-my-passion).
 
 ### INSERT COIN
 
-**Description:** INSERT COIN
-**Creator:** [Dragon20942](https://osu.ppy.sh/users/6147964)
+| | |
+| --: | :-- |
+| Description | INSERT COIN |
+| Creator | ::{ flag=CA }:: [Dragon20942](https://osu.ppy.sh/users/6147964) |
 
 <div>
     <p class="hover-item">Solution (hover)</p>
@@ -212,8 +214,10 @@ Thank you to everyone who took a crack at it - I'm glad people enjoyed :3
 
 ### ￼
 
-**Description:** Wait, wasn't there supposed to be something here?
-**Creator:** [Anonymoose](https://osu.ppy.sh/users/11153810)
+| | |
+| --: | :-- |
+| Description | Wait, wasn't there supposed to be something here? |
+| Creator | ::{ flag=LV }:: [Anonymoose](https://osu.ppy.sh/users/11153810) |
 
 <div>
     <p class="hover-item">Solution (hover)</p>
@@ -226,8 +230,11 @@ This achievement, while having a simple solution, required some out-of-the-box t
 
 ### Touhosu!
 
-**Description:** No Bombs, No Border Breaks, No Deaths. How far can you push it?
-**Creator:** [catgirl enjoyer](https://osu.ppy.sh/users/18319269)
+| | |
+| --: | :-- |
+| Description | No Bombs, No Border Breaks, No Deaths. How far can you push it? You must play with exactly the following mods: NF, HT, DA(AR11), HD, and FL (use default settings if not specified). |
+| Beatmap | [ZUN - Necrofantasia \[Phantasm Stage\]](https://osu.ppy.sh/beatmapsets/1881398#fruits/3873376) |
+| Creator | ::{ flag=US }:: [catgirl enjoyer](https://osu.ppy.sh/users/18319269) |
 
 This is one of the nine competition achievements, which were popular for their replayability. No secrets here, just a pretty cool [Necrofantasia map from Luscent](https://osu.ppy.sh/beatmapsets/1881398#fruits/3873376) where you play Touhou in osu!. There were 6 players able to get down to the lowest score of 1 fruit caught (0 doesn't submit), so well played. I'd highly recommend trying the map yourself, even if you've never played catch before. 
 

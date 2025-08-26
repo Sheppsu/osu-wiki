@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Capture The Achievement 2 Concludes"
+title: Capture The Achievement 2 Concludes
 date: 2025-08-19 20:00:00 +0000
 ---
 
@@ -61,21 +61,21 @@ There were many great achievements, and many people gave different answers on th
         width: 115px;
         font-weight: 600;
     }
-    
+
     .revealed-item {
         display: none;
         border: 2px solid white;
         padding: 10px;
     }
-    
+
     .hover-item:hover ~ .revealed-item {
         display: block;
     }
-    
+
     .revealed-item:hover {
         display: block;
     }
-    
+
     .news-chat-quote__avatar {
         float: left;
         width: 40px;
